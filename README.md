@@ -7,7 +7,7 @@ Projects documented for Software Engineering Assignment
  * #### Object Oriented Programming
  * #### Data Structures and Algorithms
  * #### Databases
-  
+ * #### 8086 Assembly
 
 ### **Introduction**
 
@@ -23,4 +23,10 @@ Programming Project made using Object Oriented concepts in C++. Using external l
 
 ### **Data Structures and Algorithms**
 
-Python datastructures implemented and used with respective algorithms. Data is also maniuplated in various ways
+Python datastructures implemented and used with respective algorithms. Data is also maniuplated in various ways.
+
+### **Databases**
+MySQL database which manages tables, addresses and manipulates data for the database users to find out helpful information from the relational database.
+
+### **8086 Assembly**
+Using `emu8086` to make an x86 assembly program which acts as a calculator and performs basic integer calculations and displays result to user.
